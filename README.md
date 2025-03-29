@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Notes app for my college.<br>I’m currently learning Next.js and Rust<br>
+Learning BlockChain<br>I’m currently learning Next.js and Rust<br>
 
 
 ## 🌐 Socials:
